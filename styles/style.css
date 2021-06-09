@@ -29,7 +29,7 @@
 	width: 730px;
 	left: 64px;
 	line-height: 96px;
-	font-size: 102px;	
+	font-size: 102px;
 	z-index: 3;
 	align-self: center;
 }
@@ -40,7 +40,7 @@
 	left: 64px;
 	bottom: 30px;
 	line-height: 25px;
-	font-size: 18px;	
+	font-size: 18px;
 	z-index: 2;
 	font-weight: normal;
 }
@@ -349,6 +349,6 @@
 .footer__column-link {
 	list-style-type: none;
     text-decoration: none;
-	color: white; 
+	color: white;
 	display: flex;
 }
