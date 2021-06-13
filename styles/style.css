@@ -330,14 +330,12 @@
 	margin-bottom: 16px;
 	display: flex;
 	flex-direction: column;
+	list-style-type: none;
 }
 
 .footer__column_content_social {
 	display: flex;
 	flex-direction: column;
-}
-
-.footer__list-item {
 	list-style-type: none;
 }
 
@@ -351,8 +349,8 @@
 .footer__column-link {
 	margin: 0;
 	padding: 0;
-	text-decoration: none;
-	list-style-type: none;
 	color: white;
 	display: flex;
+	text-decoration: none;
 }
+/*Добрый день! Не могу убрать маркеры у списка с социальными сетями + никак не сдвинуть позицию самих списков к левому краю. В чат писать не вижу смысла. Спасибо!*/
