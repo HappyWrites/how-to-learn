@@ -327,15 +327,7 @@
 	line-height: 30px;
 	font-size: 18px;
 	font-weight: normal;
-	margin: 0 0 16px;
-	display: flex;
-	flex-direction: column;
-	list-style-type: none;
-}
-
-.footer__column_content_social {
-	display: flex;
-	flex-direction: column;
+	margin: 0 0 16px -40px;
 	list-style-type: none;
 }
 
@@ -353,5 +345,3 @@
 	display: flex;
 	text-decoration: none;
 }
-
-/*Добрый день! Не могу никак не сдвинуть позицию самих списков к левому краю. В чат писать не вижу смысла. Спасибо!*/
